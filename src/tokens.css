@@ -1,0 +1,16 @@
+:root{
+  --font:'Plus Jakarta Sans',system-ui,sans-serif;
+  --bg:#E8ECF4;      /* page background */
+  --surf:#FFFFFF;    /* panel, cards, sidebar */
+  --f:#F5F7FB;       /* input / search background */
+  --ink:#12172B;     /* main text */
+  --mut:#8890A6;     /* muted text */
+  --line:#EAEDF4;    /* borders */
+  --brand:#1F6FF2;   /* primary blue */
+  --b2:#EAF1FF;      /* light blue (active menu, tags) */
+  --pur:#7A5AF0;     /* purple accent (charts) */
+  --acc:#F5B027;     /* yellow accent */
+  --ok:#1E9E6A;      /* success */
+  --bad:#E5484D;     /* error / low stock */
+  --r-card:20px; --r-input:12px; --r-pill:999px; --r-shell:26px;
+}
